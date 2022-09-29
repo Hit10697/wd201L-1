@@ -1,0 +1,19 @@
+{
+  "name": "wd201l-1",
+  "version": "1.0.0",
+  "description": "My new package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hit10697/wd201L-1.git"
+  },
+  "author": "Hit patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hit10697/wd201L-1/issues"
+  },
+  "homepage": "https://github.com/Hit10697/wd201L-1#readme"
+}
